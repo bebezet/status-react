@@ -22,6 +22,7 @@ let
       git gnumake jq ncurses gnugrep parallel
       # build specific utilities
       clojure maven watchman
+      lsof  # used in start-react-native.sh
       # other nice to have stuff
       yarn nodejs python27
     ] # and some special cases
