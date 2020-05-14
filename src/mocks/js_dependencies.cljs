@@ -192,6 +192,7 @@
     "react-native-image-resizer" image-resizer
     "./fleets.js" default-fleets
     "../translations/ar.json" (js/JSON.parse (slurp "./translations/ar.json"))
+    "../translations/de.json" (js/JSON.parse (slurp "./translations/de.json"))
     "../translations/en.json" (js/JSON.parse (slurp "./translations/en.json"))
     "../translations/es.json" (js/JSON.parse (slurp "./translations/es.json"))
     "../translations/es_419.json" (js/JSON.parse (slurp "./translations/es_419.json"))
@@ -201,6 +202,7 @@
     "../translations/it.json" (js/JSON.parse (slurp "./translations/it.json"))
     "../translations/ko.json" (js/JSON.parse (slurp "./translations/ko.json"))
     "../translations/ru.json" (js/JSON.parse (slurp "./translations/ru.json"))
+    "../translations/tr.json" (js/JSON.parse (slurp "./translations/tr.json"))
     "../translations/zh.json" (js/JSON.parse (slurp "./translations/zh.json"))
     "../translations/zh_hant.json" (js/JSON.parse (slurp "./translations/zh_hant.json"))
     "../translations/zh_TW.json" (js/JSON.parse (slurp "./translations/zh_TW.json"))
