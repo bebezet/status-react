@@ -2199,10 +2199,6 @@
    (not-any? :error (vals manage))))
 
 ;; Acquisition Referral reward
-(re-frame/reg-sub
- :invite/default-reward
- (fn [db]
-   (get-in db [:acquisition :referral :amount])))
 
 (re-frame/reg-sub
  :invite/accounts-reward
